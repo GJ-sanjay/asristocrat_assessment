@@ -1,0 +1,10 @@
+{
+"url":"https://saucedemo.com/",
+"property_path" : "C://Users//sjayakumar//Downloads//aristocrat//steps//Properties.properties",
+"username": "standard_user",
+"password":"secret_sauce",
+"locked_username": "locked_out_user",
+"firstName":"John",
+"lastName":"Doe",
+"postalCode":"123"
+}
